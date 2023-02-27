@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Desafio 1</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">DSM Desafío 1</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_1">Ficha de Vendedor</string>
+    <string name="menu_2">Ecuación Cuadrática</string>
+
+    <string name="cuadratica_a">Ingrese el valor de a</string>
+    <string name="cuadratica_b">Ingrese el valor de b</string>
+    <string name="cuadratica_c">Ingrese el valor de c</string>
+    <string name="action_cuadratica">Calcular</string>
+</resources>
